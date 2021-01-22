@@ -1,12 +1,17 @@
 ---
 title: Learn Programming
-date: 2021-01-21 21:43:00 +0100
-categories: [Course, Intro]
-tags: [learning, course, intro]    
-pin: true # TAG names should always be lowercase
+date: '2021-01-21 21:43:00 +0100'
+categories:
+  - Course
+  - Intro
+tags:
+  - learning
+  - course
+  - intro
+pin: true
 ---
 
-
+# 01-learn
 
 ## What is programming
 
@@ -21,3 +26,4 @@ pin: true # TAG names should always be lowercase
 ## Building your knowledge
 
 ## Get to work!
+
