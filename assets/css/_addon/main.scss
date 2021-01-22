@@ -73,7 +73,9 @@ $sidebar-display: "sidebar-display";
   overflow-y: auto;
   width: $sidebar-width-medium;
   z-index: 99;
-  background: var(--sidebar-bg);
+  // background: var(--sidebar-bg);
+  background-position: center;
+  background-image: url('/lucubrate/assets/img/night-sunset-peak.png');
 
   a {
     @include sidebar-links;
